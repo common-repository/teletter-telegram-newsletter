@@ -1,0 +1,462 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: includes/api-page.php:1
+msgid "%s New Subscribers Added to your List.<br />"
+msgstr ""
+
+#. Text in function
+#: includes/getupdates.php:1
+#: includes/api-page.php:1
+msgid "%s New Updates Received...<br/>"
+msgstr ""
+
+#. Text in function
+#: includes/api-settings.php:155
+msgid "100 Messages"
+msgstr ""
+
+#. Text in function
+#: includes/api-settings.php:169
+msgid "100 new updates"
+msgstr ""
+
+#. Text in function
+#: includes/api-settings.php:157
+msgid "20 Messages"
+msgstr ""
+
+#. Text in function
+#: includes/api-settings.php:171
+msgid "20 new updates"
+msgstr ""
+
+#. Text in function
+#: includes/api-settings.php:154
+msgid "200 Messages"
+msgstr ""
+
+#. Text in function
+#: includes/api-settings.php:156
+msgid "50 Messages"
+msgstr ""
+
+#. Text in function
+#: includes/api-settings.php:170
+msgid "50 new updates"
+msgstr ""
+
+#. Text in function
+#: includes/api-settings.php:183
+msgid "Active Users"
+msgstr ""
+
+#. Text in function
+#: includes/users-save.php:1
+msgid "Add New"
+msgstr ""
+
+#. Text in function
+#: includes/users-save.php:1
+msgid "Add New Item"
+msgstr ""
+
+#. Text in function
+#: includes/users-save.php:1
+msgid "Admin"
+msgstr ""
+
+#. Text in function
+#: includes/api-settings.php:230
+msgid "Admin Password"
+msgstr ""
+
+#. Text in function
+#: includes/getupdates.php:1
+#: includes/api-page.php:1
+msgid "Admin Sent Photo"
+msgstr ""
+
+#. Text in function
+#: includes/getupdates.php:1
+#: includes/api-page.php:1
+msgid "Admin Sent Text"
+msgstr ""
+
+#. Text in function
+#: includes/api-settings.php:229
+msgid "Admin users can receive alerts for new subscribers ans un subscription."
+msgstr ""
+
+#. Text in function
+#: includes/users-save.php:1
+msgid "All Items"
+msgstr ""
+
+#. Text in function
+#: includes/api-settings.php:182
+msgid "All Users"
+msgstr ""
+
+#. Text in function
+#: telegram.php:42
+msgid "Author"
+msgstr ""
+
+#. Text in function
+#: includes/api-settings.php:262
+msgid "Before updating this settings please read the Documents carefully"
+msgstr ""
+
+#. Text in function
+#: includes/api-settings.php:226
+msgid "Both"
+msgstr ""
+
+#. Text in function
+#: telegram.php:35
+msgid "Clear Log"
+msgstr ""
+
+#. Text in function
+#: includes/api-settings.php:230
+msgid "Command to Unsubscribe"
+msgstr ""
+
+#. Text in function
+#: includes/notification-metabox.php:49
+msgid "Custom Image"
+msgstr ""
+
+#. Text in function
+#: includes/notification-metabox.php:40
+#: includes/notification-metabox.php:45
+msgid "Custom Message"
+msgstr ""
+
+#. Text in function
+#: includes/api-settings.php:142
+msgid "Daily"
+msgstr ""
+
+#. Text in function
+#: telegram.php:40
+msgid "Date"
+msgstr ""
+
+#. Text in function
+#: telegram.php:43
+msgid "Description"
+msgstr ""
+
+#. Text in function
+#: includes/api-settings.php:227
+msgid "Disable"
+msgstr ""
+
+#. Text in function
+#: includes/users-save.php:1
+msgid "Edit Item"
+msgstr ""
+
+#. Text in function
+#: includes/api-settings.php:230
+msgid "Enter Your Telegram Bot Token"
+msgstr ""
+
+#. Text in function
+#: includes/users-save.php:1
+msgid "First Name"
+msgstr ""
+
+#. Text in function
+#: includes/api-settings.php:230
+msgid "Get Telegram API ready"
+msgstr ""
+
+#. Text in function
+#: includes/api-settings.php:140
+msgid "Hourly"
+msgstr ""
+
+#. Text in function
+#: includes/users-save.php:1
+msgid "Last Name"
+msgstr ""
+
+#. Text in function
+#: telegram.php:49
+msgid "Log"
+msgstr ""
+
+#. Text in function
+#: includes/api-settings.php:128
+msgid "Manual"
+msgstr ""
+
+#. Text in function
+#: includes/notification-metabox.php:34
+msgid "Message Text"
+msgstr ""
+
+#. Text in function
+#: includes/api-settings.php:230
+msgid "Message to unsubscriber"
+msgstr ""
+
+#. Text in function
+#: telegram.php:35
+msgid "Messages History"
+msgstr ""
+
+#. Text in function
+#: includes/getupdates.php:1
+#: includes/api-page.php:1
+msgid "New Admin"
+msgstr ""
+
+#. Text in function
+#: includes/users-save.php:1
+msgid "New Item"
+msgstr ""
+
+#. Text in function
+#: includes/getupdates.php:1
+#: includes/api-settings.php:224
+#: includes/api-page.php:1
+msgid "New Subscriber"
+msgstr ""
+
+#. Text in function
+#: includes/getupdates.php:1
+#: includes/api-page.php:1
+msgid "New Un Subscription"
+msgstr ""
+
+#. Text in function
+#: includes/api-settings.php:225
+msgid "New Unsubscriber"
+msgstr ""
+
+#. Text in function
+#: includes/api-settings.php:153
+#: includes/api-settings.php:168
+msgid "No Limit"
+msgstr ""
+
+#. Text in function
+#: includes/getupdates.php:1
+#: includes/api-page.php:1
+msgid "No Response"
+msgstr ""
+
+#. Text in function
+#: includes/users-save.php:1
+msgid "Not found"
+msgstr ""
+
+#. Text in function
+#: includes/users-save.php:1
+msgid "Not found in Trash"
+msgstr ""
+
+#. Text in function
+#: includes/users-save.php:1
+msgid "Parent Item:"
+msgstr ""
+
+#. Text in function
+#: includes/notification-metabox.php:51
+msgid "Please Enter Full Image URL on your site, Leave empty to not send images"
+msgstr ""
+
+#. Text in function
+#: includes/users-save.php:1
+msgid "Search Item"
+msgstr ""
+
+#. Text in function
+#: includes/api-settings.php:230
+msgid "Send Newsletter to All users or Active Users"
+msgstr ""
+
+#. Text in function
+#: includes/api-settings.php:230
+msgid "Send Notification for "
+msgstr ""
+
+#. Text in function
+#: includes/api-settings.php:230
+msgid "Send Updates to Admins"
+msgstr ""
+
+#. Text in function
+#: includes/notification-metabox.php:31
+msgid "Send to All Subscribers."
+msgstr ""
+
+#. Text in function
+#: includes/notification-metabox.php:37
+msgid "Short URL"
+msgstr ""
+
+#. Text in function
+#: includes/notification-metabox.php:39
+msgid "Short URL and Custom Message"
+msgstr ""
+
+#. Text in function
+#: includes/api-settings.php:230
+msgid "Split Query Users"
+msgstr ""
+
+#. Text in function
+#: includes/users-save.php:1
+msgid "Status"
+msgstr ""
+
+#. Text in function
+#: includes/users-save.php:1
+msgid "Subscribe Date"
+msgstr ""
+
+#. Text in function
+#: includes/users-save.php:1
+msgid "Subscriber ID"
+msgstr ""
+
+#. Text in function
+#: telegram.php:49
+#: includes/api-settings.php:253
+msgid "Telegram API"
+msgstr ""
+
+#. Text in function
+#: includes/users-save.php:1
+msgid "Telegram Bot Subscribers"
+msgstr ""
+
+#. Text in function
+#: includes/notification-metabox.php:1
+msgid "Telegram Newsletter"
+msgstr ""
+
+#. Text in function
+#: includes/api-page.php:1
+msgid "There is Some Errors, No Updates Received from Telegram API!. Please Check Your Telegram API Settings.<br />"
+msgstr ""
+
+#. Text in function
+#: includes/api-settings.php:141
+msgid "Twice Daily"
+msgstr ""
+
+#. Text in function
+#: telegram.php:39
+msgid "Type"
+msgstr ""
+
+#. Text in function
+#: includes/notification-metabox.php:36
+msgid "URL"
+msgstr ""
+
+#. Text in function
+#: includes/notification-metabox.php:38
+msgid "URL and Custom Message"
+msgstr ""
+
+#. Text in function
+#: includes/users-save.php:1
+msgid "Unknown"
+msgstr ""
+
+#. Text in function
+#: includes/users-save.php:1
+msgid "Update Item"
+msgstr ""
+
+#. Text in function
+#: telegram.php:41
+msgid "Update Number"
+msgstr ""
+
+#. Text in function
+#: includes/api-settings.php:230
+msgid "Use getUpdates or Webhook"
+msgstr ""
+
+#. Text in function
+#: includes/users-save.php:1
+msgid "Username"
+msgstr ""
+
+#. Text in function
+#: includes/users-save.php:1
+msgid "View Item"
+msgstr ""
+
+#. Text in function
+#: includes/api-settings.php:129
+msgid "Webhook"
+msgstr ""
+
+#. Text in function
+#: includes/api-settings.php:230
+msgid "Welcome Message to New Subscriber"
+msgstr ""
+
+#. Text in function
+#: includes/getupdates.php:1
+#: includes/api-page.php:1
+msgid "You Are the Boss!"
+msgstr ""
+
+#. Text in function
+#: includes/users-save.php:1
+msgid "admin"
+msgstr ""
+
+#. Text in function
+#: includes/api-settings.php:215
+msgid "admins can send text messages and photos directly from their phones to all subscribers."
+msgstr ""
+
+#. Text in function
+#: includes/api-settings.php:159
+msgid "choose lower numbers to prevent Request Timed out on sharing hosts."
+msgstr ""
+
+#. Text in function
+#: includes/api-settings.php:214
+msgid "every user that send this password to the bot will be known as admin. whenever an admin user sends message to the bot, this message will be sent as a newsletter."
+msgstr ""
+
+#. Text in function
+#: includes/api-settings.php:127
+msgid "getUpdates"
+msgstr ""
+
+#. Text in function
+#: includes/api-settings.php:230
+msgid "getUpdates Limit in every recurrence"
+msgstr ""
+
+#. Text in function
+#: includes/api-settings.php:230
+msgid "getUpdates Recurrence"
+msgstr ""
+
+#. Text in function
+#: includes/users-save.php:1
+msgid "subscriber"
+msgstr ""
+
+#. Text in function
+#: telegram.php:49
+#: includes/users-save.php:1
+msgid "subscribers"
+msgstr ""

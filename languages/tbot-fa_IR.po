@@ -1,0 +1,478 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.6.10\n"
+
+#. Text in function
+#: includes/api-page.php:1
+msgid "%s New Subscribers Added to your List.<br />"
+msgstr "%s کاربر جدید به لیست اعضای خبرنامه اضافه شد.<br />"
+
+#. Text in function
+#: includes/api-page.php:1 includes/getupdates.php:1
+msgid "%s New Updates Received...<br/>"
+msgstr "%s آپدیت جدید از تلگرام دریافت شد.<br/>"
+
+#. Text in function
+#: includes/api-settings.php:155
+msgid "100 Messages"
+msgstr "ارسال 100 تایی"
+
+#. Text in function
+#: includes/api-settings.php:169
+msgid "100 new updates"
+msgstr "100 آپدیت جدید"
+
+#. Text in function
+#: includes/api-settings.php:157
+msgid "20 Messages"
+msgstr "ارسال 20 تایی"
+
+#. Text in function
+#: includes/api-settings.php:171
+msgid "20 new updates"
+msgstr "20 آپدیت جدید"
+
+#. Text in function
+#: includes/api-settings.php:154
+msgid "200 Messages"
+msgstr "ارسال 200 تایی"
+
+#. Text in function
+#: includes/api-settings.php:156
+msgid "50 Messages"
+msgstr "ارسال 50 تایی"
+
+#. Text in function
+#: includes/api-settings.php:170
+msgid "50 new updates"
+msgstr "50 آپدیت جدید"
+
+#. Text in function
+#: includes/api-settings.php:183
+msgid "Active Users"
+msgstr "کاربران فعال"
+
+#. Text in function
+#: includes/users-save.php:1
+msgid "Add New"
+msgstr "عضو جدید"
+
+#. Text in function
+#: includes/users-save.php:1
+msgid "Add New Item"
+msgstr "افزودن عضو جدید"
+
+#. Text in function
+#: includes/users-save.php:1
+msgid "Admin"
+msgstr "دسترسی"
+
+#. Text in function
+#: includes/api-settings.php:230
+msgid "Admin Password"
+msgstr "رمز مدیر"
+
+#. Text in function
+#: includes/api-page.php:1 includes/getupdates.php:1
+msgid "Admin Sent Photo"
+msgstr "ارسال تصویر از مدیر"
+
+#. Text in function
+#: includes/api-page.php:1 includes/getupdates.php:1
+msgid "Admin Sent Text"
+msgstr "ارسال متن از مدیر"
+
+#. Text in function
+#: includes/api-settings.php:229
+msgid "Admin users can receive alerts for new subscribers ans un subscription."
+msgstr ""
+"مدیران خبرنامه امکان دریافت پیام در صورت عضویت یا لغو عضویت کاربران را "
+"خواهند داشت."
+
+#. Text in function
+#: includes/users-save.php:1
+msgid "All Items"
+msgstr "نمایش همه"
+
+#. Text in function
+#: includes/api-settings.php:182
+msgid "All Users"
+msgstr "همه اعضا"
+
+#. Text in function
+#: telegram.php:42
+msgid "Author"
+msgstr "آی دی کاربر"
+
+#. Text in function
+#: includes/api-settings.php:262
+msgid "Before updating this settings please read the Documents carefully"
+msgstr ""
+"قبل از انجام تغییرات در این بخش، آموزش کار با افزونه را به دقت مطالعه کنید."
+
+#. Text in function
+#: includes/api-settings.php:226
+msgid "Both"
+msgstr "هر دو حالت"
+
+#. Text in function
+#: telegram.php:35
+msgid "Clear Log"
+msgstr "حذف سوابق قبلی"
+
+#. Text in function
+#: includes/api-settings.php:230
+msgid "Command to Unsubscribe"
+msgstr "دستور تعریف شده برای لغو عضویت"
+
+#. Text in function
+#: includes/notification-metabox.php:49
+msgid "Custom Image"
+msgstr "تصویر دلخواه"
+
+#. Text in function
+#: includes/notification-metabox.php:40 includes/notification-metabox.php:45
+msgid "Custom Message"
+msgstr "متن دلخواه"
+
+#. Text in function
+#: includes/api-settings.php:142
+msgid "Daily"
+msgstr "روزانه"
+
+#. Text in function
+#: telegram.php:40
+msgid "Date"
+msgstr "تاریخ"
+
+#. Text in function
+#: telegram.php:43
+msgid "Description"
+msgstr "متن پیام یا توضیحات"
+
+#. Text in function
+#: includes/api-settings.php:227
+msgid "Disable"
+msgstr "غیرفعال"
+
+#. Text in function
+#: includes/users-save.php:1
+msgid "Edit Item"
+msgstr "ویرایش"
+
+#. Text in function
+#: includes/api-settings.php:230
+msgid "Enter Your Telegram Bot Token"
+msgstr "Token دریافتی از تلگرام برای روبات را وارد کنید."
+
+#. Text in function
+#: includes/users-save.php:1
+msgid "First Name"
+msgstr "نام"
+
+#. Text in function
+#: includes/api-settings.php:230
+msgid "Get Telegram API ready"
+msgstr "تنظیمات خبرنامه روبات تلگرام"
+
+#. Text in function
+#: includes/api-settings.php:140
+msgid "Hourly"
+msgstr "هر ساعت"
+
+#. Text in function
+#: includes/users-save.php:1
+msgid "Last Name"
+msgstr "نام خانوادگی"
+
+#. Text in function
+#: telegram.php:49
+msgid "Log"
+msgstr "سوابق"
+
+#. Text in function
+#: includes/api-settings.php:128
+msgid "Manual"
+msgstr "آپدیت دستی"
+
+#. Text in function
+#: includes/notification-metabox.php:34
+msgid "Message Text"
+msgstr "متن پیام"
+
+#. Text in function
+#: includes/api-settings.php:230
+msgid "Message to unsubscriber"
+msgstr "متن پیام لغو عضویت"
+
+#. Text in function
+#: telegram.php:35
+msgid "Messages History"
+msgstr "لیست پیام های ارسالی و دریافتی"
+
+#. Text in function
+#: includes/api-page.php:1 includes/getupdates.php:1
+msgid "New Admin"
+msgstr "مدیر جدید برای ربات"
+
+#. Text in function
+#: includes/users-save.php:1
+msgid "New Item"
+msgstr "عضو جدید"
+
+#. Text in function
+#: includes/api-page.php:1 includes/getupdates.php:1
+#: includes/api-settings.php:224
+msgid "New Subscriber"
+msgstr "عضو جدید"
+
+#. Text in function
+#: includes/api-page.php:1 includes/getupdates.php:1
+msgid "New Un Subscription"
+msgstr "درخواست لغو عضویت"
+
+#. Text in function
+#: includes/api-settings.php:225
+msgid "New Unsubscriber"
+msgstr "لغو عضویت جدید"
+
+#. Text in function
+#: includes/api-settings.php:153 includes/api-settings.php:168
+msgid "No Limit"
+msgstr "بدون محدودیت"
+
+#. Text in function
+#: includes/api-page.php:1 includes/getupdates.php:1
+msgid "No Response"
+msgstr "پیام بی پاسخ"
+
+#. Text in function
+#: includes/users-save.php:1
+msgid "Not found"
+msgstr "نتیچه ای یافت نشد"
+
+#. Text in function
+#: includes/users-save.php:1
+msgid "Not found in Trash"
+msgstr "زباله دان خالی است"
+
+#. Text in function
+#: includes/users-save.php:1
+msgid "Parent Item:"
+msgstr "مادر:"
+
+#. Text in function
+#: includes/notification-metabox.php:51
+msgid ""
+"Please Enter Full Image URL on your site, Leave empty to not send images"
+msgstr ""
+"لطفا آدرس یک عکس از سرور خود را وارد کنید، با خالی گذاشتن این بخش تنها پیام "
+"متنی ارسال میشود."
+
+#. Text in function
+#: includes/users-save.php:1
+msgid "Search Item"
+msgstr "جستجو"
+
+#. Text in function
+#: includes/api-settings.php:230
+msgid "Send Newsletter to All users or Active Users"
+msgstr "ارسال به همه کاربران یا کاربران فعال"
+
+#. Text in function
+#: includes/api-settings.php:230
+msgid "Send Notification for "
+msgstr "قابلیت ارسال خبرنامه هنگام ایجاد  "
+
+#. Text in function
+#: includes/api-settings.php:230
+msgid "Send Updates to Admins"
+msgstr "ارسال پیام به مدیر ربات"
+
+#. Text in function
+#: includes/notification-metabox.php:31
+msgid "Send to All Subscribers."
+msgstr "ارسال خبرنامه برای همه اعضا"
+
+#. Text in function
+#: includes/notification-metabox.php:37
+msgid "Short URL"
+msgstr "لینک کوتاه"
+
+#. Text in function
+#: includes/notification-metabox.php:39
+msgid "Short URL and Custom Message"
+msgstr "لینک کوتاه با متن دلخواه"
+
+#. Text in function
+#: includes/api-settings.php:230
+msgid "Split Query Users"
+msgstr "سبک کردن درخواست ها به سرور"
+
+#. Text in function
+#: includes/users-save.php:1
+msgid "Status"
+msgstr "وضعیت"
+
+#. Text in function
+#: includes/users-save.php:1
+msgid "Subscribe Date"
+msgstr "تاریخ عضویت"
+
+#. Text in function
+#: includes/users-save.php:1
+msgid "Subscriber ID"
+msgstr "شناسه"
+
+#. Text in function
+#: includes/api-settings.php:253 telegram.php:49
+msgid "Telegram API"
+msgstr "API تلگرام"
+
+#. Text in function
+#: includes/users-save.php:1
+msgid "Telegram Bot Subscribers"
+msgstr "اعضای خبرنامه روبات تلگرام"
+
+#. Text in function
+#: includes/notification-metabox.php:1
+msgid "Telegram Newsletter"
+msgstr "خبرنامه تلگرام"
+
+#. Text in function
+#: includes/api-page.php:1
+msgid ""
+"There is Some Errors, No Updates Received from Telegram API!. Please Check "
+"Your Telegram API Settings.<br />"
+msgstr ""
+"خطایی رخ داده است، هیچ آپدیت جدیدی از تلگرام دریافت نشد، لطفا تنظیمات رو "
+"بازبینی کنید."
+
+#. Text in function
+#: includes/api-settings.php:141
+msgid "Twice Daily"
+msgstr "دو بار در روز"
+
+#. Text in function
+#: telegram.php:39
+msgid "Type"
+msgstr "نوع پیام"
+
+#. Text in function
+#: includes/notification-metabox.php:36
+msgid "URL"
+msgstr "لینک مطلب"
+
+#. Text in function
+#: includes/notification-metabox.php:38
+msgid "URL and Custom Message"
+msgstr "لینک مطلب به همراه پیام دلخواه"
+
+#. Text in function
+#: includes/users-save.php:1
+msgid "Unknown"
+msgstr "نا مشخص"
+
+#. Text in function
+#: includes/users-save.php:1
+msgid "Update Item"
+msgstr "بروزرسانی"
+
+#. Text in function
+#: telegram.php:41
+msgid "Update Number"
+msgstr "شماره آپدیت"
+
+#. Text in function
+#: includes/api-settings.php:230
+msgid "Use getUpdates or Webhook"
+msgstr "انتخاب متد ارتباط با تلگرام"
+
+#. Text in function
+#: includes/users-save.php:1
+msgid "Username"
+msgstr "نام کاربری"
+
+#. Text in function
+#: includes/users-save.php:1
+msgid "View Item"
+msgstr "نمایش"
+
+#. Text in function
+#: includes/api-settings.php:129
+msgid "Webhook"
+msgstr ""
+
+#. Text in function
+#: includes/api-settings.php:230
+msgid "Welcome Message to New Subscriber"
+msgstr "پیام خوش آمد برای اعضای جدید"
+
+#. Text in function
+#: includes/api-page.php:1 includes/getupdates.php:1
+msgid "You Are the Boss!"
+msgstr "تو سرور من هستی!"
+
+#. Text in function
+#: includes/users-save.php:1
+msgid "admin"
+msgstr "مدیر"
+
+#. Text in function
+#: includes/api-settings.php:215
+msgid ""
+"admins can send text messages and photos directly from their phones to all "
+"subscribers."
+msgstr ""
+"مدیران میتوانند متن یا تصویر را مستقیما از تلگرام خود برای تمام اعضای "
+"خبرنامه ارسال کنند."
+
+#. Text in function
+#: includes/api-settings.php:159
+msgid "choose lower numbers to prevent Request Timed out on sharing hosts."
+msgstr ""
+"در صورت استفاده از هاست اشتراکی و یا مشاهده پیام request timed out این عدد "
+"را کاهش دهید."
+
+#. Text in function
+#: includes/api-settings.php:214
+msgid ""
+"every user that send this password to the bot will be known as admin. "
+"whenever an admin user sends message to the bot, this message will be sent "
+"as a newsletter."
+msgstr ""
+"هر کاربری که این رمز را به ربات ارسال کند از آن پس یکی از مدیران ربات خواهد "
+"بود و قادر است مستقیما برای اعضا خبرنامه ارسال کند."
+
+#. Text in function
+#: includes/api-settings.php:127
+msgid "getUpdates"
+msgstr ""
+
+#. Text in function
+#: includes/api-settings.php:230
+msgid "getUpdates Limit in every recurrence"
+msgstr "محدود کردن آپدیت های جدید در هر بار ارتباط با تلگرام"
+
+#. Text in function
+#: includes/api-settings.php:230
+msgid "getUpdates Recurrence"
+msgstr "تعداد درخواست اتوماتیک برای دریافت اعضای جدید در روز"
+
+#. Text in function
+#: includes/users-save.php:1
+msgid "subscriber"
+msgstr "عضو خبرنامه"
+
+#. Text in function
+#: includes/users-save.php:1 telegram.php:49
+msgid "subscribers"
+msgstr "اعضای خبرنامه"
